@@ -1,0 +1,11 @@
+document_id,title,filename,source_url,doc_type,topic
+1,Академический отпуск (основная информация),academic_leave_main.txt,https://www.hse.ru/studyspravka/academotpusk/,web,academic_leave
+2,Правила внутреннего распорядка,education_rules.docx,internal,regulation,education_rules
+3,Часто задаваемые вопросы (общие),faq_general.txt,https://www.hse.ru/vtotd/faq,faq,faq
+4,Часто задаваемые вопросы (академический отпуск и военкомат),faq_military_academic.txt,https://www.hse.ru/vtotd/faq,faq,academic_leave
+5,Каталог организационных документов,org_docs_catalog.txt,https://www.hse.ru/docs/,web,documents
+6,Практика (общая информация),practice_main.txt,https://www.hse.ru/studyspravka/practice,web,practice
+7,Студенческая справка,student_reference.txt,https://www.hse.ru/studyspravka/,web,faq
+8,Методические рекомендации по ВКР,vkr_guidelines.pdf,https://www.hse.ru/mirror/pubs/share/1011417046.pdf,methodical,vkr
+9,ВКР (общая информация),vkr_info.txt,https://www.hse.ru/studyspravka/vkr,web,vkr
+10,Практика (Инженерия данных),practice_data_engineering.txt,https://www.hse.ru/ma/data-engineering/internship,web,practice
